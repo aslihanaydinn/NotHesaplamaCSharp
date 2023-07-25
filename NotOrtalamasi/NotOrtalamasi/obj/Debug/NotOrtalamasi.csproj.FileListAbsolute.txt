@@ -1,0 +1,8 @@
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\NotOrtalamasi.exe.config
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\NotOrtalamasi.exe
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\NotOrtalamasi.pdb
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\NotOrtalamasi.csproj.AssemblyReference.cache
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\NotOrtalamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\NotOrtalamasi.csproj.CoreCompileInputs.cache
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\NotOrtalamasi.exe
+C:\Users\Aslıhan\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\NotOrtalamasi.pdb
